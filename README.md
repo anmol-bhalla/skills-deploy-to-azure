@@ -203,7 +203,7 @@ jobs:
 ```
 
 16. After you've edited the file, click **Commit changes...** and commit to the `staging-workflow` branch.
-17. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step. (need)
+17. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step. (need to use this portion)
 
 <footer>
 
